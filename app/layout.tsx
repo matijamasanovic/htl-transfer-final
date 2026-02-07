@@ -1,20 +1,15 @@
-"use client"; // <- make this a client component for i18n
+"use client";
 
-import React from "react";
+import { ReactNode } from "react";
 import { Inter } from "next/font/google";
-
-import "@/i18n"; // <- initialize i18n
+import "@/i18n"; // initialize i18n
 import "./globals.css";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="sr">
       <body

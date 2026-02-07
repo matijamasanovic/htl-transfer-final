@@ -1,5 +1,3 @@
-import { i18n } from "./next-i18next.config.js";
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   typescript: {
@@ -8,7 +6,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  i18n, // <- add i18n here
+  experimental: {
+    appDir: true, // Make sure this is present
+  },
 };
 
 export default nextConfig;
