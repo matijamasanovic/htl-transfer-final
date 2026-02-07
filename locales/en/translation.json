@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "services": "Services",
+    "ourVehicles": "Our Vehicles",
+    "contact": "Contact",
+    "bookRide": "Book Your Ride →",
+    "en": "EN",
+    "me": "ME"
+  },
+  "vehicles": {
+    "pageTitle": "Our Vehicles",
+    "pageDescription": "Luxury vehicles for every transfer and event",
+    "reserveVehicle": "Reserve Vehicle →",
+    "list": [
+      {
+        "name": "Mercedes-Benz E Class",
+        "description": "Elegant and comfortable limousine perfect for business and private trips",
+        "passengers": "Passengers",
+        "luggage": "Luggage",
+        "classType": "Premium class"
+      },
+      {
+        "name": "Mercedes-Benz S Class",
+        "description": "Top luxury and maximum comfort for VIP passengers",
+        "passengers": "Passengers",
+        "luggage": "Luggage",
+        "classType": "VIP class"
+      },
+      {
+        "name": "Mercedes-Benz V Class",
+        "description": "Luxury minivan ideal for VIP groups and airport transfers",
+        "passengers": "Passengers",
+        "luggage": "Luggage",
+        "classType": "VIP class"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "pageDescription": "Do you have a question or suggestion? Contact us by filling out the form or via one of the phone numbers.",
+    "form": {
+      "message": "Your Message",
+      "messagePlaceholder": "Enter your message, question, or suggestion...",
+      "email": "Contact Email Address",
+      "emailPlaceholder": "example@email.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+382 067 506 538",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "sendButton": "Send"
+    },
+    "contactMethods": {
+      "phone": "+382 067 506 538",
+      "whatsapp": "WhatsApp",
+      "viber": "Viber",
+      "wechat": "WeChat",
+      "email": "transfershtl@gmail.com"
+    },
+    "company": {
+      "name": "HTL d.o.o.",
+      "address1": "Buda Tomovića, 119",
+      "address2": "81000, Podgorica",
+      "vat": "VAT 03703215"
+    }
+  },
+  "services": {
+    "pageTitle": "Our Services",
+    "pageDescription": "All our services in one place",
+    "viewAll": "View All Services",
+    "learnMore": "Learn more",
+    "list": {
+      "airportTransfers": { "title": "Airport Transfers", "description": "" },
+      "limoService": { "title": "Limo Service", "description": "" },
+      "intercityTransfers": {
+        "title": "Intercity Transfers",
+        "description": ""
+      },
+      "internationalTransfers": {
+        "title": "International Transfers",
+        "description": ""
+      },
+      "carRental": { "title": "Car Rental with Driver", "description": "" },
+      "specialOccasions": { "title": "Special Occasions", "description": "" },
+      "eventBusinessTransfers": {
+        "title": "Event and Business Transfers",
+        "description": ""
+      },
+      "groupTransfers": { "title": "Group Transfers", "description": "" }
+    }
+  },
+  "buttons": {
+    "reserveVehicle": "Reserve Vehicle →",
+    "send": "Send",
+    "learnMore": "Learn more"
+  },
+  "hero": {
+    "subtitle": "COMPLETE EXPERIENCE",
+    "bookButton": "Book a Ride",
+    "features": {
+      "professionalDrivers": "Professional Drivers",
+      "luxuryVehicles": "Luxury Vehicles",
+      "fastBooking": "Fast Booking"
+    },
+    "stats": {
+      "clients": "500+",
+      "clientsLabel": "Satisfied Clients"
+    },
+    "alt": {
+      "heroBg": "Luxury car background",
+      "heroMobile": "Luxury car mobile background",
+      "heroImg": "Hero Image"
+    }
+  },
+  "testimonials": {
+    "subtitle": "Don't just trust us,",
+    "title": "trust our clients",
+    "list": {
+      "gukesh": "Excellent service! The driver was waiting for me at the airport, the car was clean and comfortable. Definitely recommend!",
+      "dominik": "Professional service for our wedding. All drivers were punctual and courteous. Thank you!",
+      "nikoleta": "Perfect for business transfers. Reliable and always on time."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "list": {
+      "cancellation": {
+        "question": "Is reservation cancellation charged?",
+        "answer": "No, cancellation is free if done 24 hours before the appointment."
+      },
+      "whyHTL": {
+        "question": "Why choose HTL Transfers?",
+        "answer": "Luxury and comfortable vehicles, professional drivers, and guaranteed prices."
+      },
+      "advanceBooking": {
+        "question": "How far in advance can I book a transfer?",
+        "answer": "You can book up to 3 months in advance, and urgent transfers are available within 10 hours."
+      },
+      "paymentMethods": {
+        "question": "What payment methods are available?",
+        "answer": "We accept cards, cash, and invoicing for companies."
+      }
+    }
+  },
+  "steps": {
+    "title": "Three steps to your luxury ride",
+    "description": "Do you have specific requirements? Mention them during the reservation process, and we will do our best to accommodate you by creating a tailored offer.",
+    "step": "Step",
+    "list": {
+      "step1": "Book a ride online or call our operator",
+      "step2": "Wait for the reservation confirmation",
+      "step3": "Relax and enjoy your journey"
+    },
+    "cta": "Ready to travel in style?",
+    "bookButton": "Book your ride"
+  },
+  "reservation": {
+    "title": "Book Your Ride",
+    "subtitle": "Complete the steps below to reserve your transfer",
+    "steps": {
+      "destination": "Destination",
+      "date": "Date & Time",
+      "vehicle": "Vehicle",
+      "details": "Your Details"
+    },
+    "form": {
+      "pickupLocation": "Pickup Location",
+      "pickupPlaceholder": "Enter pickup location",
+      "dropoffLocation": "Dropoff Location",
+      "dropoffPlaceholder": "Enter dropoff location",
+      "date": "Select Date",
+      "time": "Select Time",
+      "vehicle": "Vehicle Preference",
+      "vehiclePlaceholder": "Describe the desired vehicle (e.g., SUV, luxury limousine, van...)",
+      "vehicleNote": "Tell us your preference and we will find the best available vehicle.",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "John",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Doe",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+382 67 123 456",
+      "specialRequests": "Special Requests",
+      "specialRequestsPlaceholder": "Child seat, extra luggage, VIP service..."
+    },
+    "buttons": {
+      "back": "Back",
+      "next": "Next",
+      "sendRequest": "Send Request",
+      "sending": "Sending..."
+    },
+    "success": {
+      "title": "Reservation Sent!",
+      "description": "Thank you for your request. Our team will contact you shortly to confirm the details.",
+      "closeButton": "Close"
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "nav": {
+    "services": "Usluge",
+    "ourVehicles": "Naša vozila",
+    "contact": "Kontakt",
+    "bookRide": "Rezervišite vožnju →",
+    "en": "EN",
+    "me": "ME"
+  },
+  "vehicles": {
+    "pageTitle": "Naša vozila",
+    "pageDescription": "Luksuzna vozila za svaki transfer i događaj",
+    "reserveVehicle": "Rezerviši vozilo →",
+    "list": [
+      {
+        "name": "Mercedes-Benz E Class",
+        "description": "Elegantna i udobna limuzina idealna za poslovna i privatna putovanja",
+        "passengers": "Putnici",
+        "luggage": "Prtljag",
+        "classType": "Premium klasa"
+      },
+      {
+        "name": "Mercedes-Benz S Class",
+        "description": "Najveći luksuz i maksimalna udobnost za VIP putnike",
+        "passengers": "Putnici",
+        "luggage": "Prtljag",
+        "classType": "VIP klasa"
+      },
+      {
+        "name": "Mercedes-Benz V Class",
+        "description": "Luksuzni minivan idealan za VIP grupe i aerodromske transfere",
+        "passengers": "Putnici",
+        "luggage": "Prtljag",
+        "classType": "VIP klasa"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Kontakt",
+    "pageDescription": "Imate pitanje ili sugestiju? Kontaktirajte nas popunjavanjem formulara ili putem jednog od brojeva telefona.",
+    "form": {
+      "message": "Vaša poruka",
+      "messagePlaceholder": "Unesite vašu poruku, pitanje ili sugestiju...",
+      "email": "Email adresa za kontakt",
+      "emailPlaceholder": "primjer@email.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "+382 067 506 538",
+      "name": "Ime i prezime",
+      "namePlaceholder": "Unesite vaše ime i prezime",
+      "sendButton": "Pošalji"
+    },
+    "contactMethods": {
+      "phone": "+382 067 506 538",
+      "whatsapp": "WhatsApp",
+      "viber": "Viber",
+      "wechat": "WeChat",
+      "email": "transfershtl@gmail.com"
+    },
+    "company": {
+      "name": "HTL d.o.o.",
+      "address1": "Buda Tomovića, 119",
+      "address2": "81000, Podgorica",
+      "vat": " 03703215"
+    }
+  },
+  "services": {
+    "pageTitle": "Usluge",
+    "pageDescription": "Sve naše usluge na jednom mjestu",
+    "viewAll": "Saznaj više",
+    "learnMore": "Saznaj više",
+    "list": {
+      "airportTransfers": {
+        "title": "Aerodromski transferi",
+        "description": ""
+      },
+      "limoService": { "title": "Limo servis", "description": "" },
+      "intercityTransfers": {
+        "title": "Međugradski transferi",
+        "description": ""
+      },
+      "internationalTransfers": {
+        "title": "Međunarodni transferi",
+        "description": ""
+      },
+      "carRental": { "title": "Najam vozila sa vozačem", "description": "" },
+      "specialOccasions": { "title": "Svečane prilike", "description": "" },
+      "eventBusinessTransfers": {
+        "title": "Event i biznis transferi",
+        "description": ""
+      },
+      "groupTransfers": { "title": "Grupni transferi", "description": "" }
+    }
+  },
+  "buttons": {
+    "reserveVehicle": "Rezerviši vozilo →",
+    "send": "Pošalji",
+    "learnMore": "Saznaj više"
+  },
+  "hero": {
+    "subtitle": "POTPUNO ISKUSTVO",
+    "bookButton": "Rezerviši vožnju",
+    "features": {
+      "professionalDrivers": "Profesionalni vozači",
+      "luxuryVehicles": "Luksuzna vozila",
+      "fastBooking": "Brza rezervacija"
+    },
+    "stats": {
+      "clients": "500+",
+      "clientsLabel": "Zadovoljni klijenti"
+    },
+    "alt": {
+      "heroBg": "Pozadina luksuznog automobila",
+      "heroMobile": "Mobilna pozadina luksuznog automobila",
+      "heroImg": "Hero slika"
+    }
+  },
+  "testimonials": {
+    "subtitle": "Ne vjerujte samo nama,",
+    "title": "vjerujte našim klijentima",
+    "list": {
+      "gukesh": "Odlična usluga! Vozač me čekao na aerodromu, auto je bio čist i udoban. Toplo preporučujem!",
+      "dominik": "Profesionalna usluga za naše vjenčanje. Svi vozači su bili tačni i ljubazni. Hvala!",
+      "nikoleta": "Savršeno za poslovne transfere. Pouzdano i uvijek na vrijeme."
+    }
+  },
+  "faq": {
+    "title": "Najčešća pitanja",
+    "list": {
+      "cancellation": {
+        "question": "Da li se naplaćuje otkazivanje rezervacije?",
+        "answer": "Ne, otkazivanje je besplatno ako se izvrši 24h prije termina."
+      },
+      "whyHTL": {
+        "question": "Zašto odabrati HTL Transfers?",
+        "answer": "Luksuzna i udobna vozila, profesionalni vozači i garantovane cijene."
+      },
+      "advanceBooking": {
+        "question": "Koliko unaprijed mogu rezervisati transfer?",
+        "answer": "Možete rezervisati do 3 mjeseca unaprijed, a hitni transferi su dostupni unutar 10 sati."
+      },
+      "paymentMethods": {
+        "question": "Koje metode plaćanja su dostupne?",
+        "answer": "Prihvatamo kartice, keš i fakturisanje za kompanije."
+      }
+    }
+  },
+  "steps": {
+    "title": "Tri koraka do vaše luksuzne vožnje",
+    "description": "Imate li posebne zahtjeve? Napomenite ih tokom procesa rezervacije i učinićemo sve da kreiramo ponudu prilagođenu vama.",
+    "step": "Korak",
+    "list": {
+      "step1": "Rezervišite vožnju online ili pozovite našeg operatera",
+      "step2": "Sačekajte potvrdu rezervacije",
+      "step3": "Opustite se i uživajte u vožnji"
+    },
+    "cta": "Spremni za putovanje u stilu?",
+    "bookButton": "Rezerviši vožnju"
+  },
+  "footer": {
+    "brand": {
+      "description": "Luksuzni VIP transferi putnika u zemlji i inostranstvu."
+    },
+    "navigation": {
+      "main": [
+        { "name": "Početna", "href": "#" },
+        { "name": "Usluge", "href": "#usluge" },
+        { "name": "Vozila", "href": "#vozila" },
+        { "name": "Cjenovnik", "href": "#cenovnik" },
+        { "name": "Kontakt", "href": "/kontakt" }
+      ],
+      "services": [
+        { "name": "Aerodromski transfer", "href": "#" },
+        { "name": "Limo servis", "href": "#" },
+        { "name": "Međunarodni transfer", "href": "#" },
+        { "name": "Grupni transfer", "href": "#" }
+      ]
+    },
+    "headings": {
+      "links": "Linkovi",
+      "services": "Usluge",
+      "contact": "Kontakt"
+    },
+    "contact": {
+      "phone": "+382 67 506 538",
+      "email": "transfershtl@gmail.com",
+      "address": "Podgorica, Crna Gora"
+    },
+    "copyright": "© 2025 HTL Transfers. Sva prava zadržana.",
+    "links": {
+      "terms": "Uslovi korišćenja",
+      "privacy": "Politika privatnosti"
+    }
+  },
+  "reservation": {
+    "title": "Rezervišite vožnju",
+    "subtitle": "Popunite formu u nekoliko koraka",
+    "steps": {
+      "destination": "Destinacija",
+      "date": "Datum i vrijeme",
+      "vehicle": "Vozilo",
+      "details": "Podaci"
+    },
+    "form": {
+      "pickupLocation": "Lokacija preuzimanja",
+      "pickupPlaceholder": "npr. Aerodrom Tivat",
+      "dropoffLocation": "Lokacija dolaska",
+      "dropoffPlaceholder": "npr. Hilton Hotel, Podgorica",
+      "date": "Datum",
+      "time": "Vrijeme",
+      "vehicle": "Koje vozilo želite?",
+      "vehiclePlaceholder": "npr. Mercedes E klasa, crne boje ili luksuzno vozilo...",
+      "vehicleNote": "Opišite željeno vozilo ili tip vozila. Kontaktiraćemo vas ukoliko traženo vozilo nije dostupno.",
+      "firstName": "Ime",
+      "firstNamePlaceholder": "Vaše ime",
+      "lastName": "Prezime",
+      "lastNamePlaceholder": "Vaše prezime",
+      "phone": "Kontakt telefon",
+      "phonePlaceholder": "+382 6X XXX XXX",
+      "specialRequests": "Posebni zahtjevi (opciono)",
+      "specialRequestsPlaceholder": "npr. dječije sjedište, dodatni prtljag..."
+    },
+    "buttons": {
+      "back": "Nazad",
+      "next": "Dalje",
+      "sendRequest": "Pošalji zahtjev",
+      "sending": "Slanje..."
+    },
+    "success": {
+      "title": "Zahtjev je poslat!",
+      "description": "Hvala na interesovanju. Kontaktiraćemo vas uskoro radi potvrde rezervacije.",
+      "closeButton": "Zatvori"
+    }
+  }
+}
